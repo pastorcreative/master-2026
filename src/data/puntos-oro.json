@@ -1,0 +1,66 @@
+[
+  {
+    "nombre": "Antonio Vico",
+    "puntuacion": 27
+  },
+  {
+    "nombre": "Juan Blasco Padilla",
+    "puntuacion": 22
+  },
+  {
+    "nombre": "Mati Cubero",
+    "puntuacion": 17
+  },
+  {
+    "nombre": "Ángel Expósito",
+    "puntuacion": 15
+  },
+  {
+    "nombre": "Diego Rubio",
+    "puntuacion": 15
+  },
+  {
+    "nombre": "Jose Antonio Galindo",
+    "puntuacion": 14
+  },
+  {
+    "nombre": "Ruben Porras",
+    "puntuacion": 12
+  },
+  {
+    "nombre": "Ruben Domennech",
+    "puntuacion": 12
+  },
+  {
+    "nombre": "José Ángel Álvarez",
+    "puntuacion": 12
+  },
+  {
+    "nombre": "Grego Tapia",
+    "puntuacion": 10
+  },
+  {
+    "nombre": "Roberto Reche",
+    "puntuacion": 10
+  },
+  {
+    "nombre": "Fran Mayorga",
+    "puntuacion": 10
+  },
+  {
+    "nombre": "Carlos García",
+    "puntuacion": 7
+  },
+  {
+    "nombre": "Antonio Jesús Bernardino",
+    "puntuacion": 7
+  },
+  {
+    "nombre": "Alberto Ruiz",
+    "puntuacion": 4
+  },
+  {
+    "nombre": "Andrés Cros",
+    "puntuacion": 4
+  }
+]
